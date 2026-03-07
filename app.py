@@ -126,7 +126,7 @@ with tab1:
     if st.button("Predict Churn"):
 
         response = requests.post(
-            "http://127.0.0.1:8000/predict",
+            "https://customer-churn-prediction-ajzn.onrender.com/predict",
             json={"features": features}
         )
 
