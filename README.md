@@ -1,5 +1,8 @@
 # Customer Churn Prediction System
 
+## Live App : 
+https://customer-churn-prediction-kvt7axbg8fdjchpqqvvglv.streamlit.app/
+
 ## Overview
 
 This project predicts whether a telecom customer is likely to **churn (leave the service)** using machine learning. Customer churn prediction helps telecom companies identify customers who may cancel their subscription so they can take preventive actions such as offering discounts or improving services.
